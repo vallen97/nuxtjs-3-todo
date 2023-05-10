@@ -1,3 +1,7 @@
+Followed Tutorial: https://www.youtube.com/watch?v=ksDYbz2cAYA&pp=ygUPd2ViIGRldiBjb2R5IHYz
+and added delete and update to the project. 
+
+
 # Create V3 app
 
 This is a Nuxt starter template inspired by the [T3 stack](https://create.t3.gg/), adapter to the Vue / Nuxt ecosystem.
