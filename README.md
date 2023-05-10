@@ -1,4 +1,4 @@
-Followed Tutorial: https://www.youtube.com/watch?v=ksDYbz2cAYA&pp=ygUPd2ViIGRldiBjb2R5IHYz
+Followed Tutorial(https://www.youtube.com/watch?v=ksDYbz2cAYA&pp=ygUPd2ViIGRldiBjb2R5IHYz):
 and added delete and update to the project. 
 
 ##  Technologies
