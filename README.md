@@ -5,12 +5,9 @@ and added delete and update to the project.
 
 - [V3 App](https://create-v3-app.vercel.app/)
 - [Nuxt 3](https://nuxt.com/docs)
-- [Open Props](https://open-props.style)
-- [Tanstack Query](https://tanstack.com/query/latest)
 - [Prisma](https://prisma.io)
 - [tRPC](https://trpc.io)
-- [Nuxt Auth by sidebase](https://sidebase.io/nuxt-auth/getting-started)
-- [Vue-i18n](https://vue-i18n.intlify.dev)
+
 
 ## Setup
 
