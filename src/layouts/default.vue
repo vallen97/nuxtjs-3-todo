@@ -11,7 +11,6 @@ const localePath = useLocalePath();
       <div size="xl" class="header-inner">
         <h1><NuxtLink :to="localePath('/')">TODO with Vuejs</NuxtLink></h1>
         <nav>
-          <a href="/todo">TODO</a>
           <NuxtLink :to="localePath('/style-guide')">Style Guide</NuxtLink>
           <DarkModeToggle />
           <NuxtLink :to="switchLocalePath('en')">
@@ -26,21 +25,27 @@ const localePath = useLocalePath();
 
     <slot />
 
-    <i18n-t keypath="footer" tag="footer">
-      <template #link>
-        <a
-          href="https://github.com/loicpennequin"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Daria aka "CEO of Based"
-        </a>
-      </template>
-    </i18n-t>
+    <div class="center-footer">
+      <a
+        href="https://github.com/vallen97"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="center-text"
+      >
+        View my Github
+      </a>
+    </div>
   </div>
 </template>
 
 <style lang="postcss" scoped>
+.center-footer {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
 :global(body) {
   background: var(--surface-2);
   color: var(--text-1);
