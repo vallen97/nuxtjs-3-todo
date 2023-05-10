@@ -1,7 +1,7 @@
 Followed Tutorial: https://www.youtube.com/watch?v=ksDYbz2cAYA&pp=ygUPd2ViIGRldiBjb2R5IHYz
 and added delete and update to the project. 
 
-## Technologies
+##  Technologies
 
 - [V3 App](https://create-v3-app.vercel.app/)
 - [Nuxt 3](https://nuxt.com/docs)
